@@ -55,6 +55,4 @@ button.Click += (sender, e) => MessageBox.Show("Button Clicked!");
 - All UI components are created and positioned **manually via code**.
 
 ---
-
 Created with ❤️ in VS Code @adipramanadev.
-```
