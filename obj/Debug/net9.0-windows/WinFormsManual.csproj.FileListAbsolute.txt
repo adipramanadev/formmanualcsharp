@@ -1,0 +1,14 @@
+D:\BELAJARC#\WinFormsManual\bin\Debug\net9.0-windows\WinFormsManual.exe
+D:\BELAJARC#\WinFormsManual\bin\Debug\net9.0-windows\WinFormsManual.deps.json
+D:\BELAJARC#\WinFormsManual\bin\Debug\net9.0-windows\WinFormsManual.runtimeconfig.json
+D:\BELAJARC#\WinFormsManual\bin\Debug\net9.0-windows\WinFormsManual.dll
+D:\BELAJARC#\WinFormsManual\bin\Debug\net9.0-windows\WinFormsManual.pdb
+D:\BELAJARC#\WinFormsManual\obj\Debug\net9.0-windows\WinFormsManual.GeneratedMSBuildEditorConfig.editorconfig
+D:\BELAJARC#\WinFormsManual\obj\Debug\net9.0-windows\WinFormsManual.AssemblyInfoInputs.cache
+D:\BELAJARC#\WinFormsManual\obj\Debug\net9.0-windows\WinFormsManual.AssemblyInfo.cs
+D:\BELAJARC#\WinFormsManual\obj\Debug\net9.0-windows\WinFormsManual.csproj.CoreCompileInputs.cache
+D:\BELAJARC#\WinFormsManual\obj\Debug\net9.0-windows\WinFormsManual.dll
+D:\BELAJARC#\WinFormsManual\obj\Debug\net9.0-windows\refint\WinFormsManual.dll
+D:\BELAJARC#\WinFormsManual\obj\Debug\net9.0-windows\WinFormsManual.pdb
+D:\BELAJARC#\WinFormsManual\obj\Debug\net9.0-windows\WinFormsManual.genruntimeconfig.cache
+D:\BELAJARC#\WinFormsManual\obj\Debug\net9.0-windows\ref\WinFormsManual.dll
